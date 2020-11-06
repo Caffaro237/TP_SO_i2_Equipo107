@@ -7,3 +7,9 @@ d-¿Los datos que tenia en mi repositorio , editados por mi, se pierden si quier
 el fork?
 e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
 orden de ejecución de los mismos, que debieron usar para este TP
+
+a- Ejecute los siguientes comandos:
+	git remote add upstream https://github.com/ceciliaybarrola/TP_SO_i2_Equipo107.git
+	git fetch upstream
+	git rebase upstream/main
+b- No tenemos ALFA pero si se puede actualizar el FORK al estado del fork de GAMMA
